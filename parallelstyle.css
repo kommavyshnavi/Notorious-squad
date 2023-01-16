@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Poppins',sans-serif;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-1{
+    background-image: url(https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhZmV8ZW58MHx8MHx8&w=1000&q=80);
+    width: 100%;
+    height: 800px;
+}
+.bg-2{
+    background-image: url(https://media.istockphoto.com/id/1222408833/photo/pouring-coffee-with-smoke-on-a-cup-with-breads-or-bun-croissant-and-bakery-on-white-wooden.jpg?b=1&s=170667a&w=0&k=20&c=v6Sg8UJ1YHxybuRCs5owtYuR8IXQhM7hP-Yt8F4Ntpg=);
+
+width: 100%;
+height: 600px;
+}
+.bg-3{
+    background-image: url(https://thumbs.dreamstime.com/b/woman-bringing-delicious-dessert-to-young-visitors-woman-bringing-delicious-dessert-to-young-visitors-family-cafe-192070116.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.bg-4{
+    background-image: url(https://wallpaperaccess.com/full/41593.jpg);
+    width: 100%;
+    height: 600px;
+}
+.bg-5{
+    background-image: url(https://media.istockphoto.com/id/1130595856/photo/two-cheerful-women-having-fun-during-coffee-time-in-a-cafe.jpg?s=612x612&w=0&k=20&c=AYKKdkOddAsqfPjkP8UP8KFffduh3KyRTYyTceUqrDw=);
+    width: 100%;
+    height: 100vh;
+}
